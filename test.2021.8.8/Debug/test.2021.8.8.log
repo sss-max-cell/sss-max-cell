@@ -1,3 +1,0 @@
-﻿  test.c
-D:\我的c语言代码\sss-max-cell\test.2021.8.8\test.c(54,1): warning C4305: “初始化”: 从“double”到“float”截断
-  test.2021.8.8.vcxproj -> D:\我的c语言代码\sss-max-cell\test.2021.8.8\Debug\test.2021.8.8.exe

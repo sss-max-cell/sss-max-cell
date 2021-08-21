@@ -1,0 +1,3 @@
+﻿D:\vc\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(2021.8.21test。cpp.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  学习类的代码.cpp
+  2021.8.21test。cpp.vcxproj -> D:\A我的编程学习之路的代码\sss-max-cell\2021.8.21test。cpp\Debug\2021.8.21test.cpp.exe

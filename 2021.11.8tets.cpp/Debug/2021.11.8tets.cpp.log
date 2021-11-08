@@ -1,0 +1,4 @@
+﻿  继承方式.cpp
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.8tets.cpp\继承方式.cpp(53,7): warning C4101: “oo”: 未引用的局部变量
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.8tets.cpp\继承方式.cpp(79,7): warning C4101: “mm”: 未引用的局部变量
+  2021.11.8tets.cpp.vcxproj -> D:\A我的编程学习之路的代码\sss-max-cell\2021.11.8tets.cpp\Debug\2021.11.8tets.cpp.exe

@@ -1,0 +1,19 @@
+﻿  MyArry.hpp
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(20,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(70): message : 查看对正在编译的 类 模板 实例化“person<T>”的引用
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(20,23): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(21,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(21,1): warning C4183: “MyArray”: 缺少返回类型；假定为返回“int”的成员函数
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(36,22): error C2760: 语法错误: 意外标记 "const"，应为 ")"
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(60,11): error C2760: 语法错误: 意外标记 "]"，应为 "表达式"
+  类模板案例.cpp
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(20,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(70): message : 查看对正在编译的 类 模板 实例化“person<T>”的引用
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(20,23): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(21,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(21,1): warning C4183: “MyArray”: 缺少返回类型；假定为返回“int”的成员函数
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(36,22): error C2760: 语法错误: 意外标记 "const"，应为 ")"
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\MyArry.hpp(60,11): error C2760: 语法错误: 意外标记 "]"，应为 "表达式"
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\类模板案例.cpp(6,2): error C2065: “MyArray”: 未声明的标识符
+D:\A我的编程学习之路的代码\sss-max-cell\2021.11.22test.cpp\类模板案例.cpp(6,10): error C2062: 意外的类型“int”
+  正在生成代码...
